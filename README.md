@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BenPI88!
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning JavaScript!
-- 📫 How to reach me BenPI@email.com
+- 📫 How to reach me BenPI88@proton.me
