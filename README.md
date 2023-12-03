@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BenPI88!
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently learning Nothing!
 - 📫 How to reach me BenPI88@proton.me
